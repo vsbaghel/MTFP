@@ -1,10 +1,6 @@
 # MTFP
 
-Format of input .txt file
-
-it contains number of projects, requirement of each project according to skills required, and the total number of individuals available according to the skills
-
-**Format:**
+**Format of input txt file:**
 
 Suppose we have two projects and individuals having three different skills are required:
 
@@ -49,6 +45,12 @@ Number of Negative relation
 An optimized team having 100% efficiency
 
 ==========================================================================================
+
+**Codes:** 
+
+(1) **mtfp_ga.c** Contains the implemetation of MTFP using proposed GA-based approach.
+
+(2) **mtfp_vns.c** Contains the implementation of MTFP using Variable Neigborhood Search. 
 
 **Cite this paper:**
 
