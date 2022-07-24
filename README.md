@@ -52,6 +52,8 @@ An optimized team having 100% efficiency
 
 (2) **mtfp_vns.c** Contains the implementation of MTFP using Variable Neigborhood Search. 
 
+==========================================================================================
+
 **Cite this paper:**
 
 **V. S. Baghel** and S. Durga Bhavani, "Multiple team formation using an evolutionary approach," In Proceedings of Eleventh International Conference on Contemporary Computing (IC3), pp 1-6, 2-4 August 2018, Noida, India.
