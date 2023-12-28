@@ -26,13 +26,13 @@ Number of individual for Skill-3
 
 < available individuals along with their unique id >
 
-=========================================================================================
+=======================================================================================
 
 Example of Sociometry matrix is provided inside the folder **"Sociometry_Example" **
 
 **Format of Sociometry:**
 
-=========================================================================================
+=======================================================================================
 
 If total individual of n then 
 
@@ -44,7 +44,7 @@ Number of Negative relation
 
 An optimized team having 100% efficiency
 
-==========================================================================================
+=======================================================================================
 
 **Codes:** 
 
@@ -52,7 +52,7 @@ An optimized team having 100% efficiency
 
 (2) **mtfp_vns.c** Contains the implementation of MTFP using Variable Neigborhood Search. 
 
-==========================================================================================
+========================================================================================
 
 **Cite this paper:**
 
